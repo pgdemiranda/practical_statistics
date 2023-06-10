@@ -6,8 +6,6 @@ Repositório: https://github.com/gedeck/practical-statistics-for-data-scientists
 
 # 1.0. - Exploratory Data Analysis
 
-A Análise Exploratória de Dados foi um método pensado por John Tukey e é um dos pilares da Ciência de Dados, sendo uma maneira de olhar para os dados profundamente, resumindo e visualizando os dados disponíveis. O primeiro capítulo do livro é dividido entre os seguintes sub-capítulos e conceitos:
-
 > 1.1. Elementos de Dados Estruturados (Elements of Structured Data)
 
 > 1.2. Dados Retangulares (Rectangular Data)
